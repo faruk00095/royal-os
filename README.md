@@ -1,6 +1,6 @@
 # ROYAL OS — Autonomous AI Business Operations
 
-> **ROYAL’S AI PRIVATE LIMITED by FUTURE MAKERS TECHNOLOGIES PRIVATE LIMITED**
+> **ROYAL’S AI  by FUTURE MAKERS TECHNOLOGIES PRIVATE LIMITED**
 
 ROYAL OS is a hackathon-ready command centre for human-governed AI business operations. It converts a customer enquiry into a qualified lead, a draft response, an operational next step, and—when policy requires it—a human approval request.
 
