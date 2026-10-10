@@ -19,6 +19,7 @@ ROYAL OS is a hackathon-ready command centre for human-governed AI business oper
 npm install
 npm run dev
 ```
+LOGIN DETAILS: ARFAROOQ5@GMAIL PASSWORD: 123
 
 Open [http://localhost:3000](http://localhost:3000). No secret or external service is required.
 
@@ -50,3 +51,4 @@ Next.js 14 · TypeScript · React · CSS
 - `.env.local` is ignored by Git.
 - The demo uses no persistent customer data or external requests.
 - High-priority external communication is held for human approval.
+- 
